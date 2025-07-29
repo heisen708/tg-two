@@ -11,9 +11,9 @@ api_hash1 = '2e0d5a624f4eb3991826a9abe13c78b7'
 string_session1 = '1BVtsOKEBu4HG80MYORL7huehaSHqFsMwFHbjVebEJxGuosFlEe7P3bksW03GS2pfwTaNBQslB6TM5Y5FgICaTWsZDxXm5XvgC2e6PmnpyVnxoa4Vw6NTGNETgCs4PI_Ml8ylc_x0mNdGhAkW6RvvSP7Wq12qKwYzJIOTiOtmiXh_xn-fS3Qm4zlosCvE7fk-Tvk4bkZvbgGuwnqpcqhc066SA4cM0Z24Nw5z9D4cW_ajkZ5DkZc2DCyiefMZGvIogJuiKD3tJUff9JTx2SdMhUfDfR6y1nuV2DUAxVzD7WSnqX4wi9cat7OEHOg9AYJ58nAzQV5h8m8JQXV1qvSkPezJ7yQmIsw='
 
 # === Account 2 Credentials ===
-api_id2 = 22073993     # Replace with your second account's API ID
-api_hash2 = 'f2be10d5f4a455d2b897adac4192d1c5'  # Replace with your second account's API hash
-string_session2 = '1BVtsOKEBu7nPXZrrAid5cXGvytRCmYbTm9C1ud1jN1kb_kYUYxUo-YS2LQ5zGqXm5y9m_r-wRUZYBCx2zBE2ScFS_XRGpyMonBjdp8Zk7EGDDD-uw4BL1W1hAVYiGFqWN7YGHMlAdsxueP4BGTXaIlLljYX70HV07D0D3E7xjk9AIruKtHSXIHYnHugigIAw3zKzHyirdJOnqTxwxqy2F9V1n9Jn9TKTGbd5YApeInkPevjCrelIqZTD1sd3UBojulAr_71sKQmrj-9Z9zSXLce9QtG0uVuVXlWwl-uIHXnPlvK1VO7WvUPii2bydxc__yT7XZ6iNG0rU6V59_ipRTi0ENf1pwU='  # Replace with your 2nd account session
+api_id2 = 27994222     # Replace with your second account's API ID
+api_hash2 = '6db4a57fe71b90f9fc70b81c95668d3a'  # Replace with your second account's API hash
+string_session2 = '1BVtsOKEBu38KlupRWCMFlL4MS4E9x4pWaKfCakOQlAivbe1bnJbDLKCemCSGGzPwSVAzJmyG4pqiLQw3iJ_0eAkDSw6HstNg5usXAQFuQ6ZMgYF5sQ_HQ-n2o_c8CHJQamyC-eaqYQtKzpqjuFaz9BGaHPzMbJF7wr2hmy5Vdw7Lk27OZmWUVDiYo7251F0JDI1x8FZtygEHjMQ-ejXZgLmNlreq6ul7t31B5eV6IFqX44Wfs4VdcDJtOH0AJE6CSK6q4e-AF5qJ42BENo-zrr876pOoQv-QUl9IQAR0zqCKlyysKF5h4NF-BkMIGo6IZB-SYuMw-k9JhFXhQtOQR5NmxbvtAO8='  # Replace with your 2nd account session
 
 # === Two Owners ===
 OWNER_ID_1 = 7425304864  # Owner of account 1
