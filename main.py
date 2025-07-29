@@ -17,7 +17,7 @@ string_session2 = '1BVtsOKEBu38KlupRWCMFlL4MS4E9x4pWaKfCakOQlAivbe1bnJbDLKCemCSG
 
 # === Two Owners ===
 OWNER_ID_1 = 7425304864  # Owner of account 1
-OWNER_ID_2 = 5285235939  # Owner of account 2 (can be same)
+OWNER_ID_2 = 8112118353  # Owner of account 2 (can be same)
 
 # Create clients
 client1 = TelegramClient(StringSession(string_session1), api_id1, api_hash1)
